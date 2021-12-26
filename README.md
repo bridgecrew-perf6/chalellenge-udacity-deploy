@@ -11,11 +11,15 @@ This application is provided to you as an alternative starter project if you do 
 
 The project can run but is missing some information to connect to the database and storage service. These will be setup during the course of the project
 
-### Dependencies
+## Dependencies
 
-Documented on docs/dependences.md file.
+Documented on docs/dependencies.md file.
 
-### Installation
+## Required screenshots
+
+All required screenshots in the rubric page are displayed inside the screenshots/ folder.
+
+## Installation
 
 Provision the necessary AWS services needed for running the application:
 
