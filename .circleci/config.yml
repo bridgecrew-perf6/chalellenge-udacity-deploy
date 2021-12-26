@@ -15,6 +15,13 @@ jobs:
           install-yarn: true
           node-version: '16.13'
       - aws-cli/setup
+      - run:
+          name: Installing deployment dependencies
+          working_directory: /
+          command: |
+            sudo apt-get -y -qq update
+            sudo apt-get install python3-pip python3-dev build-essential
+            sudo pip3 install awsebcli
       - checkout
       # install dependencies in both apps
       - run:
