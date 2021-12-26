@@ -47,7 +47,6 @@
     "eslint-config-google": "^0.14.0",
     "mocha": "^6.1.4",
     "ts-node-dev": "^1.0.0-pre.32",
-    "tsc": "^2.0.3",
     "typescript": "^3.9.10",
     "unzip": "^0.1.11",
     "zip": "^1.2.0"
