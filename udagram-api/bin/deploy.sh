@@ -1,1 +1,1 @@
-eb deploy Udacitytest-env
+eb init udacity-test && eb deploy
