@@ -18,7 +18,7 @@ All the project is running using AWS services. All the specifications are detail
 
 1. Service name: S3
 2. Frontend framework: Angular
-3. Endpoint: http://udacity-challenge-final.s3-website-us-east-1.amazonaws.com/home
+3. Endpoint: http://udacity-challenge-final.s3-website-us-east-1.amazonaws.com
 
 ## Backend:
 
