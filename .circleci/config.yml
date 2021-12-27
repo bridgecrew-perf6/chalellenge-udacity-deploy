@@ -6,6 +6,10 @@ orbs:
   # different jobs are calles later in the workflows sections
 jobs:
   build:
+    filters:
+      branches:
+        only:
+          - main
     working_directory: ~/udagram
     docker:
       # the base image can run most needed actions with orbs

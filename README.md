@@ -1,5 +1,7 @@
 # Udagram
 
+[![Kevin Farias Dev](https://circleci.com/gh/kevinfarias/chalellenge-udacity-deploy.svg?style=svg)](https://github.com/kevinfarias/chalellenge-udacity-deploy)
+
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
 ## Getting Started
@@ -10,6 +12,10 @@ This application is provided to you as an alternative starter project if you do 
 1. follow the instructions in the installation step
 
 The project can run but is missing some information to connect to the database and storage service. These will be setup during the course of the project
+
+## Project url
+
+http://udacity-challenge-final.s3-website-us-east-1.amazonaws.com
 
 ## Dependencies
 
